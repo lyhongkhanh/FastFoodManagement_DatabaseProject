@@ -1,0 +1,73 @@
+C:\Users\win 10\source\repos\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\win 10\source\repos\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\win 10\source\repos\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.csprojAssemblyReference.cache
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.LoginForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.StartForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.AddDishForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.MainAddminForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.RemoveDishForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.MenuList.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.EditDishForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.AddStaffForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.StaffListForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.RemoveUpdateStaffForm.resources
+C:\Users\win 10\source\repos\FastFood\FastFood\obj\Debug\FastFood.ShoppingForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.AddProfileForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.RemoveUpdateStaffForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.ShoppingForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.AddStaffForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.EditDishForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.MenuList.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.AddDishForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.LoginForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.MainAddminForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.RemoveDishForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.StaffListForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.StartForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.CartForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.DeliveryForm.resources
+C:\Users\PC\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.FinishForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.DeliveryForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.FinishForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.AddProfileForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.CartForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.RemoveUpdateStaffForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.ShoppingForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.AddStaffForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.EditDishForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.MenuList.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.AddDishForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.LoginForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.MainAddminForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.RemoveDishForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.StaffListForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.StartForm.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.REVENUE.Revenue_ByDay.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.REVENUE.Revenue_Total.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.CUSTOMER.AddCustomer.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.CUSTOMER.List_Cus.resources
+C:\Users\Admin\Desktop\Learning\DBM\Project\New folder\FastFood\FastFood\FastFood\obj\Debug\FastFood.CUSTOMER.Remove_Update_Cus.resources

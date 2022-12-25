@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5E59958-2E19-479D-B523-5C277E331881}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FastFood</RootNamespace>
+    <AssemblyName>FastFood</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CUSTOMER\AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CUSTOMER\AddCustomer.Designer.cs">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUSTOMER\Customer.cs" />
+    <Compile Include="CUSTOMER\List_Cus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CUSTOMER\List_Cus.Designer.cs">
+      <DependentUpon>List_Cus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUSTOMER\Remove_Update_Cus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CUSTOMER\Remove_Update_Cus.Designer.cs">
+      <DependentUpon>Remove_Update_Cus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeliveryForm.Designer.cs">
+      <DependentUpon>DeliveryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinishForm.Designer.cs">
+      <DependentUpon>FinishForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REVENUE\Bill.cs" />
+    <Compile Include="REVENUE\Revenue_ByDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REVENUE\Revenue_ByDay.Designer.cs">
+      <DependentUpon>Revenue_ByDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REVENUE\Revenue_Total.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REVENUE\Revenue_Total.Designer.cs">
+      <DependentUpon>Revenue_Total.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SHOPPING\AddProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHOPPING\AddProfileForm.Designer.cs">
+      <DependentUpon>AddProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SHOPPING\CartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHOPPING\CartForm.Designer.cs">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SHOPPING\SHOPPING.cs" />
+    <Compile Include="Staff\RemoveUpdateStaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\RemoveUpdateStaffForm.Designer.cs">
+      <DependentUpon>RemoveUpdateStaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SHOPPING\ShoppingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHOPPING\ShoppingForm.Designer.cs">
+      <DependentUpon>ShoppingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\AddStaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\AddStaffForm.Designer.cs">
+      <DependentUpon>AddStaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU\EditDishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU\EditDishForm.Designer.cs">
+      <DependentUpon>EditDishForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU\MenuList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU\MenuList.Designer.cs">
+      <DependentUpon>MenuList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU\AddDishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU\AddDishForm.Designer.cs">
+      <DependentUpon>AddDishForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAddminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAddminForm.Designer.cs">
+      <DependentUpon>MainAddminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU\MENU.cs" />
+    <Compile Include="MENU\RemoveDishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU\RemoveDishForm.Designer.cs">
+      <DependentUpon>RemoveDishForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\STAFF.cs" />
+    <Compile Include="Staff\StaffListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\StaffListForm.Designer.cs">
+      <DependentUpon>StaffListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MY_DB.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CUSTOMER\AddCustomer.resx">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUSTOMER\List_Cus.resx">
+      <DependentUpon>List_Cus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUSTOMER\Remove_Update_Cus.resx">
+      <DependentUpon>Remove_Update_Cus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeliveryForm.resx">
+      <DependentUpon>DeliveryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinishForm.resx">
+      <DependentUpon>FinishForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REVENUE\Revenue_ByDay.resx">
+      <DependentUpon>Revenue_ByDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REVENUE\Revenue_Total.resx">
+      <DependentUpon>Revenue_Total.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHOPPING\AddProfileForm.resx">
+      <DependentUpon>AddProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHOPPING\CartForm.resx">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\RemoveUpdateStaffForm.resx">
+      <DependentUpon>RemoveUpdateStaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHOPPING\ShoppingForm.resx">
+      <DependentUpon>ShoppingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\AddStaffForm.resx">
+      <DependentUpon>AddStaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU\EditDishForm.resx">
+      <DependentUpon>EditDishForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU\MenuList.resx">
+      <DependentUpon>MenuList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU\AddDishForm.resx">
+      <DependentUpon>AddDishForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAddminForm.resx">
+      <DependentUpon>MainAddminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU\RemoveDishForm.resx">
+      <DependentUpon>RemoveDishForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\StaffListForm.resx">
+      <DependentUpon>StaffListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="image\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart297757.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
